@@ -43,8 +43,8 @@ https://github.com/NoelJungnickel/flights-co2-tracker
 
 ---
 
-> “Code as if your laptop will be flung into the past and handed to a 14th-century monk who must debug it using only Gregorian chants.” 
-> — Someone, Somewhere probably
+> “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.” 
+> — John Woods
 
 <!-- Proudly created with ❤️ and GitHub Copilot -->
 <!--
