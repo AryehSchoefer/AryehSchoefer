@@ -17,7 +17,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryeh-schoefer) · [Email](mailto:aryeh.shmuel@googlemail.com)
 
 ---
-
+<!--
 ## 🛠️ Tech & Tools
 
 | Frontend         | Backend                  | DevOps & Cloud      | AI            |
@@ -26,7 +26,7 @@
 | GraphQL · REST   | Go · FastAPI    | AWS · GCP · Terraform |             |
 
 ---
-
+-->
 ## 🔭 Featured Projects
 
 ### 🧠 🚧 LangLite & Ingestion API  
