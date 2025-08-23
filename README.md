@@ -1,10 +1,9 @@
 # 👋 Hello, I’m Aryeh Schoefer
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryehSchoefer&color=blue" alt="Profile views" />
+<p>
   <img src="https://img.shields.io/badge/Full--Stack%20Dev-🌐-blue" alt="Full Stack Dev" />
   <img src="https://img.shields.io/badge/System%20Design-💡-orange" alt="System Design" />
-  <img src="https://img.shields.io/badge/AI-🤖-purple" alt="AI" />
+  <img src="https://img.shields.io/badge/AI%20/%20ML-🤖-purple" alt="AI" />
+  <img src="https://komarev.com/ghpvc/?username=AryehSchoefer&color=blue" alt="Profile views" />
 </p>
 
 ---
