@@ -6,7 +6,6 @@ Currently focused on scalable architectures, AI-driven apps, and developer exper
 I’m working on projects around AI observability, ingestion pipelines, and human-in-the-loop systems for production use.  
 
 - [LinkedIn](https://www.linkedin.com/in/aryeh-schoefer)  
-- [GitHub](https://github.com/AryehSchoefer)  
 - [Email](mailto:aryeh.shmuel@googlemail.com)
 
 ---
