@@ -11,7 +11,7 @@ I’m working on projects around AI observability, ingestion pipelines, and huma
 
 ---
 
-#### You might know me from
+#### Some projects that escaped my drafts folder
 - **LangLite** — a type-safe SDK + ingestion API for LLM observability  
   [TypeScript SDK](https://github.com/AryehSchoefer/langlite) · [Go API](https://github.com/AryehSchoefer/langlite-ingestion)
 - **SplatSquare** — a playful, social sticker board app for sharing and co-creating content with friends  
