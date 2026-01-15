@@ -4,7 +4,7 @@ I build software. It usually does what I intended.
 
 Full-stack systems, LLM-powered apps, developer tooling - if it connects people or automates something tedious, I'm interested.
 
-Currently reading *Build a Large Language Model (From Scratch)* because apparently I hate free time. It's dense but I'm denser.
+Currently reading *Build a Large Language Model (From Scratch)*. It's dense but I'm denser.
 
 Also learning Zig. Might get into systems programming. Might not.
 
