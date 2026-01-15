@@ -1,7 +1,12 @@
 ### Aryeh Schöfer
 
-I've been building full-stack systems that connect people, automate workflows, and make complex processes feel simple.  
-Currently focused on scalable architectures, LLM-powered apps, and developer experience tooling.
+I build software. It usually does what I intended.
+
+Full-stack systems, LLM-powered apps, developer tooling - if it connects people or automates something tedious, I'm interested.
+
+Currently reading *Build a Large Language Model (From Scratch)* because apparently I hate free time. It's dense but I'm denser.
+
+Also learning Zig. Might get into systems programming. Might not.
 
 - [Blog](https://aryeh.dev)
 - [LinkedIn](https://www.linkedin.com/in/aryeh-schoefer)  
@@ -9,11 +14,4 @@ Currently focused on scalable architectures, LLM-powered apps, and developer exp
 
 ---
 
-#### Currently learning
-- Building LLMs via *Build a Large Language Model (From Scratch)* by Sebastian Raschka
-- Zig - might get into systems programming, who knows
-
----
-
-> "Always code as if the person maintaining it knows where you live."  
-> — John Woods
+> "It works on my machine" is a deployment strategy, actually.
