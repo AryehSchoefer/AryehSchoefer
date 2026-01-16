@@ -1,5 +1,3 @@
-### Aryeh Schöfer
-
 I build software. It usually does what I intended.
 
 Full-stack systems, LLM-powered apps, developer tooling - if it connects people or automates something tedious, I'm interested.
