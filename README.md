@@ -13,3 +13,5 @@ Also learning Zig. Might get into systems programming. Might not.
 ---
 
 > "It works on my machine" is a deployment strategy, actually.
+> 
+<sub>[gists link so i can find them faster](https://gist.github.com/AryehSchoefer)</sub>
